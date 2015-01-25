@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Switch</string>
+    <string name="auto_switching_service">Wifi and Bluetooth Switching</string>
+
+    <string name="feature_not_supported">Feature Not Supported</string>
+    
+    
+    <string name="PrefCategory_AboutApp">About Application</string>
+	    <string name="PrefTitle_AboutApp">@string/app_name</string>
+	    <string name="PrefDesc_AboutApp">Version: 2.0</string>
+    
+</resources>
